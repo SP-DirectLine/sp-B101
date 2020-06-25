@@ -1,0 +1,31 @@
+.block-awards {
+
+}
+
+.block-awards-title {
+
+}
+
+.block-awards-list {
+    list-style-type: none;
+}
+
+.block-awards-item {
+
+}
+
+.block-awards-link {
+
+}
+
+.block-awards-link:hover .block-awards-image {
+    opacity: 0.7;
+}
+
+.block-awards-link:active .block-awards-image {
+    opacity: 0.5;
+}
+
+.block-awards-image {
+    transition: opacity 0.3s ease-in-out;
+}

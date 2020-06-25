@@ -1,0 +1,45 @@
+.block-contacts {
+    background-image: url(../../images/block-contacts-bg.png);
+}
+
+.block-contacts-container {
+
+}
+
+.block-contacts-inner {
+    max-width: 380px;
+    background-color: #008752;
+}
+
+.block-contacts-title {
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 36px;
+    color: #ffffff;
+}
+
+.block-contacts-address {
+    font-size: 15px;
+    line-height: 18px;
+    color: #ffffff;
+}
+
+.block-contacts-phone {
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    color: rgb(255, 255, 255);
+    transition: color 0.3s ease-in-out;
+}
+
+.block-contacts-phone:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.block-contacts-phone:active {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.block-contacts-learn-more {
+
+}

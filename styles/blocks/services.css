@@ -1,0 +1,41 @@
+.block-services {
+
+}
+
+.block-services-title {
+    font-weight: bold;
+    font-size: 42px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #00559D;
+
+}
+
+.block-services-list {
+
+}
+
+.block-service {
+
+}
+
+.block-service-image {
+
+}
+
+.block-service-title {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    color: #2C3036;
+}
+
+.block-service-description {
+    font-size: 16px;
+    line-height: 21px;
+    color: #2C3036;
+}
+
+.block-service-link {
+
+}
