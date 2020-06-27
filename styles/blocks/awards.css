@@ -7,11 +7,14 @@
 }
 
 .block-awards-list {
+    display: flex;
+    justify-content: space-between;
     list-style-type: none;
+    margin: 0 -10px;
 }
 
 .block-awards-item {
-
+    padding: 0 10px;
 }
 
 .block-awards-link {

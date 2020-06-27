@@ -1,5 +1,7 @@
 .block-social-links {
-
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .block-social-links-title {
@@ -11,11 +13,13 @@
 }
 
 .block-social-links-list {
+    display: flex;
     list-style-type: none;
+    margin: 0 -8px;
 }
 
 .block-social-links-item {
-
+    padding: 0 8px;
 }
 
 .block-social-links-link {
