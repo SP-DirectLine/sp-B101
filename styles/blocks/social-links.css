@@ -42,3 +42,15 @@
 .block-social-links-link--twitter {
     background-image: url(../../images/icon-twitter.svg);
 }
+
+.block-social-links-link--google {
+    background-image: url(../../images/icon-google.svg);
+}
+
+.block-social-links-link--linkedin {
+    background-image: url(../../images/icon-linkedin.svg);
+}
+
+.block-social-links-link--youtube {
+    background-image: url(../../images/icon-youtube.svg);
+}
